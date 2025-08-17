@@ -1,0 +1,15 @@
+torch>=2.3.0
+torchvision
+transformers>=4.45.0
+accelerate
+peft
+bitsandbytes
+pandas
+pillow
+tqdm
+faiss-cpu
+open_clip_torch
+openpyxl
+einops
+timm
+omegaconf
